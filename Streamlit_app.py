@@ -1,3 +1,3 @@
-import Streamlit
+import streamlit
 
-Streamlit.title("Welcome :)")
+streamlit.title("Welcome :)")
